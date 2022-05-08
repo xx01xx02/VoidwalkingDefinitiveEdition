@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rockhard.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rock_idle0000" x="0" y="0" width="514" height="493"/>
+	<SubTexture name="rock_idle0001" x="0" y="0" width="514" height="493"/>
+	<SubTexture name="rock_idle0002" x="514" y="0" width="514" height="493"/>
+	<SubTexture name="rock_idle0003" x="514" y="0" width="514" height="493"/>
+	<SubTexture name="rock_right0000" x="1028" y="0" width="514" height="493"/>
+	<SubTexture name="rock_left0000" x="1542" y="0" width="514" height="493"/>
+	<SubTexture name="rock_up0000" x="2056" y="0" width="514" height="493"/>
+	<SubTexture name="rock_down0000" x="2570" y="0" width="514" height="493"/>
+</TextureAtlas>

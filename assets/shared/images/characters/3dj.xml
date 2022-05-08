@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="2dj.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jimmy idle0000" x="0" y="0" width="760" height="670"/>
+	<SubTexture name="jimmy up0000" x="0" y="670" width="760" height="670"/>
+	<SubTexture name="jimmy up0001" x="0" y="670" width="760" height="670"/>
+	<SubTexture name="jimmy up0002" x="760" y="670" width="760" height="670"/>
+	<SubTexture name="jimmy up0003" x="760" y="670" width="760" height="670"/>
+	<SubTexture name="jimmy up0004" x="1520" y="670" width="760" height="670"/>
+	<SubTexture name="jimmy up0005" x="1520" y="670" width="760" height="670"/>
+	<SubTexture name="jimmy down0000" x="2280" y="670" width="760" height="670"/>
+	<SubTexture name="jimmy down0001" x="2280" y="670" width="760" height="670"/>
+	<SubTexture name="jimmy down0002" x="3040" y="670" width="760" height="670"/>
+	<SubTexture name="jimmy down0003" x="3040" y="670" width="760" height="670"/>
+	<SubTexture name="jimmy down0004" x="3800" y="670" width="760" height="670"/>
+	<SubTexture name="jimmy down0005" x="3800" y="670" width="760" height="670"/>
+	<SubTexture name="jimmy right0000" x="760" y="0" width="760" height="670"/>
+	<SubTexture name="jimmy right0001" x="760" y="0" width="760" height="670"/>
+	<SubTexture name="jimmy right0002" x="1520" y="0" width="760" height="670"/>
+	<SubTexture name="jimmy right0003" x="1520" y="0" width="760" height="670"/>
+	<SubTexture name="jimmy right0004" x="2280" y="0" width="760" height="670"/>
+	<SubTexture name="jimmy right0005" x="2280" y="0" width="760" height="670"/>
+	<SubTexture name="jimmy left0000" x="3040" y="0" width="760" height="670"/>
+	<SubTexture name="jimmy left0001" x="3040" y="0" width="760" height="670"/>
+	<SubTexture name="jimmy left0002" x="3800" y="0" width="760" height="670"/>
+	<SubTexture name="jimmy left0003" x="3800" y="0" width="760" height="670"/>
+	<SubTexture name="jimmy left0004" x="4560" y="0" width="760" height="670"/>
+	<SubTexture name="jimmy left0005" x="4560" y="0" width="760" height="670"/>
+	<SubTexture name="god0000" x="0" y="1340" width="1140" height="1005"/>
+	<SubTexture name="god0001" x="0" y="1340" width="1140" height="1005"/>
+	<SubTexture name="god0002" x="0" y="1340" width="1140" height="1005"/>
+	<SubTexture name="god0003" x="0" y="1340" width="1140" height="1005"/>
+	<SubTexture name="god0004" x="0" y="1340" width="1140" height="1005"/>
+	<SubTexture name="god0005" x="0" y="1340" width="1140" height="1005"/>
+	<SubTexture name="god0006" x="0" y="1340" width="1140" height="1005"/>
+	<SubTexture name="god0007" x="0" y="1340" width="1140" height="1005"/>
+	<SubTexture name="god0008" x="0" y="1340" width="1140" height="1005"/>
+	<SubTexture name="god0009" x="0" y="1340" width="1140" height="1005"/>
+</TextureAtlas>

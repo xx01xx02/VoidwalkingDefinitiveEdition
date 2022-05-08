@@ -1,0 +1,50 @@
+{
+	"storyName": "voidwalking demo week",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "demo",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"entryway",
+			"max",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"cleithrophobia",
+			"phobic",
+			[
+				113,
+				113,
+				113
+			]
+		],
+		[
+			"jimmy",
+			"2dj",
+			[
+				0,
+				255,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "demo week",
+	"hiddenUntilUnlocked": false
+}

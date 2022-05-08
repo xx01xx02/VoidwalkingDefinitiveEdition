@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="radio_assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="radio down0000" x="0" y="10" width="300" height="350"/>
+	<SubTexture name="radio idle0000" x="0" y="0" width="300" height="350"/>
+	<SubTexture name="radio left0000" x="0" y="0" width="300" height="350"/>
+	<SubTexture name="radio right0000" x="0" y="0" width="300" height="350"/>
+	<SubTexture name="radio up0000" x="0" y="0" width="300" height="350"/>
+</TextureAtlas>

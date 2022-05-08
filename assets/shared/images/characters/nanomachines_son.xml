@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nanomachines_son.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="phobic down0000" x="1500" y="700" width="500" height="700"/>
+	<SubTexture name="phobic down0001" x="1500" y="700" width="500" height="700"/>
+	<SubTexture name="phobic down0002" x="2000" y="700" width="500" height="700"/>
+	<SubTexture name="phobic down0003" x="2000" y="700" width="500" height="700"/>
+	<SubTexture name="phobic down0004" x="2500" y="700" width="500" height="700"/>
+	<SubTexture name="phobic down0005" x="2500" y="700" width="500" height="700"/>
+	<SubTexture name="phobic idle0000" x="2500" y="0" width="500" height="700"/>
+	<SubTexture name="phobic idle0001" x="2500" y="0" width="500" height="700"/>
+	<SubTexture name="phobic idle0002" x="2000" y="0" width="500" height="700"/>
+	<SubTexture name="phobic idle0003" x="2000" y="0" width="500" height="700"/>
+	<SubTexture name="phobic idle0004" x="1500" y="0" width="500" height="700"/>
+	<SubTexture name="phobic idle0005" x="1500" y="0" width="500" height="700"/>
+	<SubTexture name="phobic idle0006" x="1000" y="0" width="500" height="700"/>
+	<SubTexture name="phobic idle0007" x="1000" y="0" width="500" height="700"/>
+	<SubTexture name="phobic idle0008" x="500" y="0" width="500" height="700"/>
+	<SubTexture name="phobic idle0009" x="500" y="0" width="500" height="700"/>
+	<SubTexture name="phobic idle0010" x="0" y="0" width="500" height="700"/>
+	<SubTexture name="phobic idle0011" x="0" y="0" width="500" height="700"/>
+	<SubTexture name="phobic left0000" x="0" y="700" width="500" height="700"/>
+	<SubTexture name="phobic left0001" x="0" y="700" width="500" height="700"/>
+	<SubTexture name="phobic left0002" x="500" y="700" width="500" height="700"/>
+	<SubTexture name="phobic left0003" x="500" y="700" width="500" height="700"/>
+	<SubTexture name="phobic left0004" x="1000" y="700" width="500" height="700"/>
+	<SubTexture name="phobic left0005" x="1000" y="700" width="500" height="700"/>
+	<SubTexture name="phobic right0000" x="0" y="1400" width="500" height="700"/>
+	<SubTexture name="phobic right0001" x="0" y="1400" width="500" height="700"/>
+	<SubTexture name="phobic right0002" x="500" y="1400" width="500" height="700"/>
+	<SubTexture name="phobic right0003" x="500" y="1400" width="500" height="700"/>
+	<SubTexture name="phobic right0004" x="1000" y="1400" width="500" height="700"/>
+	<SubTexture name="phobic right0005" x="1000" y="1400" width="500" height="700"/>
+	<SubTexture name="phobic up0000" x="1500" y="1400" width="500" height="700"/>
+	<SubTexture name="phobic up0001" x="1500" y="1400" width="500" height="700"/>
+	<SubTexture name="phobic up0002" x="2000" y="1400" width="500" height="700"/>
+	<SubTexture name="phobic up0003" x="2000" y="1400" width="500" height="700"/>
+	<SubTexture name="phobic up0004" x="2500" y="1400" width="500" height="700"/>
+	<SubTexture name="phobic up0005" x="2500" y="1400" width="500" height="700"/>
+</TextureAtlas>

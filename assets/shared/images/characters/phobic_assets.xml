@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="phobic_assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="phobic down0000" x="0" y="514" width="450" height="514"/>
+	<SubTexture name="phobic down0001" x="0" y="514" width="450" height="514"/>
+	<SubTexture name="phobic down0002" x="450" y="514" width="450" height="514"/>
+	<SubTexture name="phobic down0003" x="450" y="514" width="450" height="514"/>
+	<SubTexture name="phobic idle0000" x="1800" y="0" width="450" height="514"/>
+	<SubTexture name="phobic idle0001" x="1800" y="0" width="450" height="514"/>
+	<SubTexture name="phobic idle0002" x="1350" y="0" width="450" height="514"/>
+	<SubTexture name="phobic idle0003" x="1350" y="0" width="450" height="514"/>
+	<SubTexture name="phobic idle0004" x="900" y="0" width="450" height="514"/>
+	<SubTexture name="phobic idle0005" x="900" y="0" width="450" height="514"/>
+	<SubTexture name="phobic idle0006" x="450" y="0" width="450" height="514"/>
+	<SubTexture name="phobic idle0007" x="450" y="0" width="450" height="514"/>
+	<SubTexture name="phobic idle0008" x="0" y="0" width="450" height="514"/>
+	<SubTexture name="phobic idle0009" x="0" y="0" width="450" height="514"/>
+	<SubTexture name="phobic idle0010" x="0" y="0" width="450" height="514"/>
+	<SubTexture name="phobic idle0011" x="0" y="0" width="450" height="514"/>
+	<SubTexture name="phobic idle0012" x="0" y="0" width="450" height="514"/>
+	<SubTexture name="phobic idle0013" x="0" y="0" width="450" height="514"/>
+	<SubTexture name="phobic left0000" x="3150" y="0" width="450" height="514"/>
+	<SubTexture name="phobic left0001" x="3150" y="0" width="450" height="514"/>
+	<SubTexture name="phobic left0002" x="3600" y="0" width="450" height="514"/>
+	<SubTexture name="phobic left0003" x="3600" y="0" width="450" height="514"/>
+	<SubTexture name="phobic right0000" x="900" y="514" width="450" height="514"/>
+	<SubTexture name="phobic right0001" x="900" y="514" width="450" height="514"/>
+	<SubTexture name="phobic right0002" x="1350" y="514" width="450" height="514"/>
+	<SubTexture name="phobic right0003" x="1350" y="514" width="450" height="514"/>
+	<SubTexture name="phobic up0000" x="2250" y="0" width="450" height="514"/>
+	<SubTexture name="phobic up0001" x="2250" y="0" width="450" height="514"/>
+	<SubTexture name="phobic up0002" x="2700" y="0" width="450" height="514"/>
+	<SubTexture name="phobic up0003" x="2700" y="0" width="450" height="514"/>
+</TextureAtlas>

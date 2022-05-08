@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boulder_assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="boulder down0000" x="1923" y="1000" width="641" height="1000"/>
+	<SubTexture name="boulder down0001" x="1923" y="1000" width="641" height="1000"/>
+	<SubTexture name="boulder down0002" x="1923" y="1000" width="641" height="1000"/>
+	<SubTexture name="boulder down0003" x="1923" y="1000" width="641" height="1000"/>
+	<SubTexture name="boulder idle0000" x="1923" y="0" width="641" height="1000"/>
+	<SubTexture name="boulder idle0001" x="1923" y="0" width="641" height="1000"/>
+	<SubTexture name="boulder idle0002" x="1282" y="0" width="641" height="1000"/>
+	<SubTexture name="boulder idle0003" x="1282" y="0" width="641" height="1000"/>
+	<SubTexture name="boulder idle0004" x="641" y="0" width="641" height="1000"/>
+	<SubTexture name="boulder idle0005" x="641" y="0" width="641" height="1000"/>
+	<SubTexture name="boulder idle0006" x="0" y="0" width="641" height="1000"/>
+	<SubTexture name="boulder idle0007" x="0" y="0" width="641" height="1000"/>
+	<SubTexture name="boulder idle0008" x="0" y="0" width="641" height="1000"/>
+	<SubTexture name="boulder idle0009" x="0" y="0" width="641" height="1000"/>
+	<SubTexture name="boulder idle0010" x="0" y="0" width="641" height="1000"/>
+	<SubTexture name="boulder idle0011" x="0" y="0" width="641" height="1000"/>
+	<SubTexture name="boulder idle0012" x="0" y="0" width="641" height="1000"/>
+	<SubTexture name="boulder idle0013" x="0" y="0" width="641" height="1000"/>
+	<SubTexture name="boulder left0000" x="641" y="1000" width="641" height="1000"/>
+	<SubTexture name="boulder left0001" x="641" y="1000" width="641" height="1000"/>
+	<SubTexture name="boulder left0002" x="641" y="1000" width="641" height="1000"/>
+	<SubTexture name="boulder left0003" x="641" y="1000" width="641" height="1000"/>
+	<SubTexture name="boulder right0000" x="0" y="1000" width="641" height="1000"/>
+	<SubTexture name="boulder right0001" x="0" y="1000" width="641" height="1000"/>
+	<SubTexture name="boulder right0002" x="0" y="1000" width="641" height="1000"/>
+	<SubTexture name="boulder right0003" x="0" y="1000" width="641" height="1000"/>
+	<SubTexture name="boulder up0000" x="1282" y="1000" width="641" height="1000"/>
+	<SubTexture name="boulder up0001" x="1282" y="1000" width="641" height="1000"/>
+	<SubTexture name="boulder up0002" x="1282" y="1000" width="641" height="1000"/>
+	<SubTexture name="boulder up0003" x="1282" y="1000" width="641" height="1000"/>
+</TextureAtlas>

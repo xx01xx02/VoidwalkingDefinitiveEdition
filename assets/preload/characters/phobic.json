@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "phobic left"
+		},
+		{
+			"offsets": [
+				0,
+				-150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "phobic down"
+		},
+		{
+			"offsets": [
+				0,
+				-150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "phobic up"
+		},
+		{
+			"offsets": [
+				0,
+				-150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "phobic right"
+		},
+		{
+			"offsets": [
+				0,
+				-150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "phobic idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/phobic_assets",
+	"position": [
+		-150,
+		280
+	],
+	"healthicon": "phobic",
+	"flip_x": false,
+	"healthbar_colors": [
+		95,
+		95,
+		95
+	],
+	"camera_position": [
+		220,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

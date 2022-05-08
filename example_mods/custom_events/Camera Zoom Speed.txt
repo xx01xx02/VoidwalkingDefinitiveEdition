@@ -1,0 +1,5 @@
+Sets Camera Bounce Speed
+transparency value.
+
+Value 1: Speed
+Value 2: Intensity

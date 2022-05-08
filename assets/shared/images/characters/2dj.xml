@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="2dj.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jimmy idle0000" x="4200" y="0" width="700" height="800"/>
+	<SubTexture name="jimmy idle0001" x="4200" y="0" width="700" height="800"/>
+	<SubTexture name="jimmy idle0002" x="3500" y="0" width="700" height="800"/>
+	<SubTexture name="jimmy idle0003" x="3500" y="0" width="700" height="800"/>
+	<SubTexture name="jimmy idle0004" x="2800" y="0" width="700" height="800"/>
+	<SubTexture name="jimmy idle0005" x="2800" y="0" width="700" height="800"/>
+	<SubTexture name="jimmy idle0006" x="2100" y="0" width="700" height="800"/>
+	<SubTexture name="jimmy idle0007" x="2100" y="0" width="700" height="800"/>
+	<SubTexture name="jimmy idle0008" x="1400" y="0" width="700" height="800"/>
+	<SubTexture name="jimmy idle0009" x="1400" y="0" width="700" height="800"/>
+	<SubTexture name="jimmy idle0010" x="700" y="0" width="700" height="800"/>
+	<SubTexture name="jimmy idle0011" x="700" y="0" width="700" height="800"/>
+	<SubTexture name="jimmy idle0012" x="0" y="0" width="700" height="800"/>
+	<SubTexture name="jimmy idle0013" x="0" y="0" width="700" height="800"/>
+	<SubTexture name="jimmy idle0014" x="0" y="0" width="700" height="800"/>
+	<SubTexture name="jimmy idle0015" x="0" y="0" width="700" height="800"/>
+	<SubTexture name="jimmy idle0016" x="0" y="0" width="700" height="800"/>
+	<SubTexture name="jimmy idle0017" x="0" y="0" width="700" height="800"/>
+	<SubTexture name="jimmy up0000" x="0" y="800" width="700" height="800"/>
+	<SubTexture name="jimmy up0001" x="0" y="800" width="700" height="800"/>
+	<SubTexture name="jimmy up0002" x="700" y="800" width="700" height="800"/>
+	<SubTexture name="jimmy up0003" x="700" y="800" width="700" height="800"/>
+	<SubTexture name="jimmy up0004" x="1400" y="800" width="700" height="800"/>
+	<SubTexture name="jimmy up0005" x="1400" y="800" width="700" height="800"/>
+	<SubTexture name="jimmy down0000" x="700" y="1600" width="700" height="800"/>
+	<SubTexture name="jimmy down0001" x="700" y="1600" width="700" height="800"/>
+	<SubTexture name="jimmy down0002" x="1400" y="1600" width="700" height="800"/>
+	<SubTexture name="jimmy down0002" x="1400" y="1600" width="700" height="800"/>
+	<SubTexture name="jimmy right0000" x="3500" y="800" width="700" height="800"/>
+	<SubTexture name="jimmy right0001" x="3500" y="800" width="700" height="800"/>
+	<SubTexture name="jimmy right0002" x="4200" y="800" width="700" height="800"/>
+	<SubTexture name="jimmy right0003" x="4200" y="800" width="700" height="800"/>
+	<SubTexture name="jimmy right0004" x="0" y="1600" width="700" height="800"/>
+	<SubTexture name="jimmy right0005" x="0" y="1600" width="700" height="800"/>
+	<SubTexture name="jimmy left0000" x="2100" y="800" width="700" height="800"/>
+	<SubTexture name="jimmy left0001" x="2100" y="800" width="700" height="800"/>
+	<SubTexture name="jimmy left0002" x="2800" y="800" width="700" height="800"/>
+	<SubTexture name="jimmy left0003" x="2800" y="800" width="700" height="800"/>
+	<SubTexture name="gun0000" x="2100" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0001" x="2100" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0002" x="2800" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0003" x="2800" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0004" x="3500" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0005" x="3500" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0006" x="4200" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0007" x="4200" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0008" x="4200" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0009" x="4200" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0010" x="4200" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0011" x="4200" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0012" x="4200" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0013" x="4200" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0014" x="4200" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0015" x="4200" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0016" x="4200" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0017" x="4200" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0018" x="4200" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0019" x="4200" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0020" x="4200" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0021" x="4200" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0022" x="4200" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0023" x="4200" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0024" x="4200" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0025" x="4200" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0026" x="4200" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0027" x="4200" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0028" x="4200" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0029" x="4200" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0030" x="4200" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0031" x="4200" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0032" x="4200" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0033" x="4200" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0034" x="4200" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0035" x="4200" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0036" x="4200" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0037" x="4200" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0038" x="4200" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0039" x="4200" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0040" x="4200" y="1600" width="700" height="800"/>
+	<SubTexture name="gun0041" x="4200" y="1600" width="700" height="800"/>
+</TextureAtlas>

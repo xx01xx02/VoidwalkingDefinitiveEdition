@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="creator_assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="creator down0000" x="0" y="1000" width="560" height="500"/>
+	<SubTexture name="creator down0001" x="0" y="1000" width="560" height="500"/>
+	<SubTexture name="creator down0002" x="560" y="1000" width="560" height="500"/>
+	<SubTexture name="creator down0003" x="560" y="1000" width="560" height="500"/>
+	<SubTexture name="creator down0004" x="1120" y="1000" width="560" height="500"/>
+	<SubTexture name="creator down0004" x="1120" y="1000" width="560" height="500"/>
+	<SubTexture name="creator idle0000" x="2800" y="0" width="560" height="500"/>
+	<SubTexture name="creator idle0001" x="2800" y="0" width="560" height="500"/>
+	<SubTexture name="creator idle0002" x="2240" y="0" width="560" height="500"/>
+	<SubTexture name="creator idle0003" x="2240" y="0" width="560" height="500"/>
+	<SubTexture name="creator idle0004" x="1680" y="0" width="560" height="500"/>
+	<SubTexture name="creator idle0005" x="1680" y="0" width="560" height="500"/>
+	<SubTexture name="creator idle0006" x="1120" y="0" width="560" height="500"/>
+	<SubTexture name="creator idle0007" x="1120" y="0" width="560" height="500"/>
+	<SubTexture name="creator idle0008" x="560" y="0" width="560" height="500"/>
+	<SubTexture name="creator idle0009" x="560" y="0" width="560" height="500"/>
+	<SubTexture name="creator idle0010" x="0" y="0" width="560" height="500"/>
+	<SubTexture name="creator idle0011" x="0" y="0" width="560" height="500"/>
+	<SubTexture name="creator idle0012" x="1120" y="0" width="560" height="500"/>
+	<SubTexture name="creator idle0013" x="1120" y="0" width="560" height="500"/>
+	<SubTexture name="creator idle0014" x="560" y="0" width="560" height="500"/>
+	<SubTexture name="creator idle0015" x="560" y="0" width="560" height="500"/>
+	<SubTexture name="creator idle0016" x="0" y="0" width="560" height="500"/>
+	<SubTexture name="creator idle0017" x="0" y="0" width="560" height="500"/>
+	<SubTexture name="creator left0000" x="0" y="500" width="560" height="500"/>
+	<SubTexture name="creator left0001" x="0" y="500" width="560" height="500"/>
+	<SubTexture name="creator left0002" x="560" y="500" width="560" height="500"/>
+	<SubTexture name="creator left0003" x="560" y="500" width="560" height="500"/>
+	<SubTexture name="creator left0004" x="1120" y="500" width="560" height="500"/>
+	<SubTexture name="creator right0000" x="1680" y="500" width="560" height="500"/>
+	<SubTexture name="creator right0001" x="1680" y="500" width="560" height="500"/>
+	<SubTexture name="creator right0002" x="2240" y="500" width="560" height="500"/>
+	<SubTexture name="creator right0003" x="2240" y="500" width="560" height="500"/>
+	<SubTexture name="creator right0004" x="2800" y="500" width="560" height="500"/>
+	<SubTexture name="creator right0005" x="2800" y="500" width="560" height="500"/>
+	<SubTexture name="creator up0000" x="1680" y="1000" width="560" height="500"/>
+	<SubTexture name="creator up0001" x="1680" y="1000" width="560" height="500"/>
+	<SubTexture name="creator up0002" x="2240" y="1000" width="560" height="500"/>
+	<SubTexture name="creator up0003" x="2240" y="1000" width="560" height="500"/>
+	<SubTexture name="creator up0004" x="2800" y="1000" width="560" height="500"/>
+	<SubTexture name="creator up0005" x="2800" y="1000" width="560" height="500"/>
+</TextureAtlas>

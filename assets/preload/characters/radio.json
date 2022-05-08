@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-150
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "radio left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-161
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "radio down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-150
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "radio up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-150
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "radio right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-150
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "radio idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-150
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "radio idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-150
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "radio left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-150
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "radio right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-150
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "radio up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/radio_assets",
+	"position": [
+		0,
+		370
+	],
+	"healthicon": "radio",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

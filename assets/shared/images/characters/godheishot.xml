@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="godheishot.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="max down0000" x="1500" y="600" width="500" height="600"/>
+	<SubTexture name="max down0001" x="1500" y="600" width="500" height="600"/>
+	<SubTexture name="max down0002" x="2000" y="600" width="500" height="600"/>
+	<SubTexture name="max down0003" x="2000" y="600" width="500" height="600"/>
+	<SubTexture name="max down0004" x="2500" y="600" width="500" height="600"/>
+	<SubTexture name="max down0005" x="2500" y="600" width="500" height="600"/>
+	<SubTexture name="max idle0000" x="0" y="0" width="500" height="600"/>
+	<SubTexture name="max idle0001" x="0" y="0" width="500" height="600"/>
+	<SubTexture name="max idle0002" x="500" y="0" width="500" height="600"/>
+	<SubTexture name="max idle0003" x="500" y="0" width="500" height="600"/>
+	<SubTexture name="max idle0004" x="1000" y="0" width="500" height="600"/>
+	<SubTexture name="max idle0005" x="1000" y="0" width="500" height="600"/>
+	<SubTexture name="max idle0006" x="1500" y="0" width="500" height="600"/>
+	<SubTexture name="max idle0007" x="1500" y="0" width="500" height="600"/>
+	<SubTexture name="max idle0008" x="2000" y="0" width="500" height="600"/>
+	<SubTexture name="max idle0009" x="2000" y="0" width="500" height="600"/>
+	<SubTexture name="max idle0010" x="2500" y="0" width="500" height="600"/>
+	<SubTexture name="max idle0011" x="2500" y="0" width="500" height="600"/>
+	<SubTexture name="max left0000" x="0" y="600" width="500" height="600"/>
+	<SubTexture name="max left0001" x="0" y="600" width="500" height="600"/>
+	<SubTexture name="max left0002" x="500" y="600" width="500" height="600"/>
+	<SubTexture name="max left0003" x="500" y="600" width="500" height="600"/>
+	<SubTexture name="max left0004" x="1000" y="600" width="500" height="600"/>
+	<SubTexture name="max left0005" x="1000" y="600" width="500" height="600"/>
+	<SubTexture name="max right0000" x="0" y="1200" width="500" height="600"/>
+	<SubTexture name="max right0001" x="0" y="1200" width="500" height="600"/>
+	<SubTexture name="max right0002" x="500" y="1200" width="500" height="600"/>
+	<SubTexture name="max right0003" x="500" y="1200" width="500" height="600"/>
+	<SubTexture name="max right0004" x="1000" y="1200" width="500" height="600"/>
+	<SubTexture name="max right0005" x="1000" y="1200" width="500" height="600"/>
+	<SubTexture name="max up0000" x="1500" y="1200" width="500" height="600"/>
+	<SubTexture name="max up0001" x="1500" y="1200" width="500" height="600"/>
+	<SubTexture name="max up0002" x="2000" y="1200" width="500" height="600"/>
+	<SubTexture name="max up0003" x="2000" y="1200" width="500" height="600"/>
+	<SubTexture name="max up0004" x="2500" y="1200" width="500" height="600"/>
+	<SubTexture name="max up0005" x="2500" y="1200" width="500" height="600"/>
+</TextureAtlas>

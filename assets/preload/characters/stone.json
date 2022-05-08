@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-150
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "stone left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-150
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "stone down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-150
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "stone up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-150
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "stone right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-150
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "stone idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-150
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "stone idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-150
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "stone right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-150
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "stone up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-150
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "stone left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/stone_assets",
+	"position": [
+		-20,
+		300
+	],
+	"healthicon": "stone",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		10,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

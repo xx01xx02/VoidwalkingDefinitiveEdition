@@ -230,6 +230,7 @@ class PlayState extends MusicBeatState
 	var trainback:FlxBackdrop;
 	var fastTree:BGSprite;
 	var traininside:BGSprite;
+	var hisfilt:BGSprite;
 
 	public var songScore:Int = 0;
 	public var songHits:Int = 0;
@@ -603,7 +604,8 @@ class PlayState extends MusicBeatState
 				add(bg);
 
 			case 'him':
-				var bg:BGSprite = new BGSprite('creatorbg', -600, -200, 0.9, 0.9);
+				var bg:BGSprite = new BGSprite('creatorback', -600, -200, 0.9, 0.9);
+				hisfilt = new BGSprite('hisfilter', -600, -200, 0.9, 0.9);
 				add(bg);
 
 			case 'jim':
@@ -797,6 +799,9 @@ class PlayState extends MusicBeatState
 			add(halloweenWhite);
 		}
 
+		if (curStage == 'him')
+			add(hisfilt);
+
 		#if LUA_ALLOWED
 		luaDebugGroup = new FlxTypedGroup<DebugLuaText>();
 		luaDebugGroup.cameras = [camOther];
@@ -937,10 +942,6 @@ class PlayState extends MusicBeatState
 			case 'schoolEvil':
 				var evilTrail = new FlxTrail(dad, null, 4, 24, 0.3, 0.069); //nice
 				insert(members.indexOf(dadGroup) - 1, evilTrail);
-
-			case 'train':
-				resetFastTree();
-				insert(members.indexOf(gfGroup) - 1, fastTree);
 		}
 
 		var file:String = Paths.json(songName + '/dialogue'); //Checks for json/Psych Engine dialogue
@@ -2142,8 +2143,6 @@ class PlayState extends MusicBeatState
 
 			if(carTimer != null) carTimer.active = false;
 
-			if(treeTimer != null) treeTimer.active = false;
-
 			var chars:Array<Character> = [boyfriend, gf, dad];
 			for (char in chars) {
 				if(char != null && char.colorTween != null) {
@@ -2184,8 +2183,6 @@ class PlayState extends MusicBeatState
 				phillyCityLightsEventTween.active = true;
 			
 			if(carTimer != null) carTimer.active = true;
-
-			if(treeTimer != null) treeTimer.active = true;
 
 			var chars:Array<Character> = [boyfriend, gf, dad];
 			for (char in chars) {
@@ -3991,6 +3988,24 @@ class PlayState extends MusicBeatState
 							boyfriend.playAnim('hurt', true);
 							boyfriend.specialAnim = true;
 						}
+					case 'Crystal Note': 
+						health += -0.15;
+						FlxG.sound.play(Paths.sound('stonefree'), 0.9);
+						switch (note.noteData)
+							{
+								case 0:
+									boyfriend.playAnim('stoneLeft', true);
+									boyfriend.specialAnim = true;
+								case 1:
+									boyfriend.playAnim('stoneDown', true);
+									boyfriend.specialAnim = true;
+								case 2:
+									boyfriend.playAnim('stoneUp', true);
+									boyfriend.specialAnim = true;
+								case 3:
+									boyfriend.playAnim('stoneRight', true);
+									boyfriend.specialAnim = true;
+							}
 				}
 				
 				note.wasGoodHit = true;

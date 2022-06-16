@@ -70,6 +70,20 @@ class GameplaySettingsSubState extends BaseOptionsMenu
 			false);
 		addOption(option);
 
+		var option:Option = new Option('Bumpscosity',
+			"If checked, activates Bumpscosity.",
+			'bumpscosity',
+			'bool',
+			false);
+		addOption(option); //doesnt do anything. you will never get bumpscosity.
+
+		var option:Option = new Option('Easy Mode',
+			"If checked, it will disable Hard Mode\ni.e. all the things that will kill you.",
+			'easyMode',
+			'bool',
+			true);
+		addOption(option); //also does nothing. just a thing to induce anxiety.
+
 		var option:Option = new Option('Hitsound Volume',
 			'Funny notes does \"Tick!\" when you hit them."',
 			'hitsoundVolume',

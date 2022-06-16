@@ -12,8 +12,9 @@ using StringTools;
 class Achievements {
 	public static var achievementsStuff:Array<Dynamic> = [ //Name, Description, Achievement save tag, Hidden achievement
 		["Freaky on a Friday Night",	"Play on a Friday... Night.",						'friday_night_play',	 true],
-		["Beat the Demo",				"Beat the demo week.",								'week1_done',			false],
-		["Perfectionist",				"Beat the demo week with no misses.",				'week1_nomiss',		    false]
+		["The Meme Mann",				"Beat the first week with no misses.",				'week1_nomiss',		    false],
+		["2 Guards 1 Leader",			"Beat the second week with no misses.",				'week2_nomiss',		    false],
+		["The Green Ball",				"Beat the last week with no misses.",				'week3_nomiss',		    false]
 	];
 	public static var achievementsMap:Map<String, Bool> = new Map<String, Bool>();
 

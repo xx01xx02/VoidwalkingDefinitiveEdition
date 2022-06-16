@@ -1,0 +1,221 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "voidBF idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "voidBF NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				-34
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "voidBF NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				17
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "voidBF NOTE UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "voidBF NOTE RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				13
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "voidBF NOTE LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				-13
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "voidBF NOTE DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				19
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "voidBF NOTE UP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				16
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "voidBF NOTE RIGHT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				4
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "voidBF HEY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				14
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "voidBF hit",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "voidBF idle shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				5
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "voidBF dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				15,
+				1
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "voidBF Dead Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				46
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "voidBF Dead confirm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-11
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "voidBF dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				207,
+				189
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "voidBF attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				-25
+			],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "voidBF pre attack",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfvoid",
+	"position": [
+		70,
+		500
+	],
+	"healthicon": "vbf",
+	"flip_x": true,
+	"healthbar_colors": [
+		180,
+		180,
+		180
+	],
+	"camera_position": [
+		20,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

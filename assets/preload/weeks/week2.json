@@ -1,35 +1,44 @@
 {
 	"songs": [
 		[
-			"entryway",
-			"max",
+			"boche",
+			"mike",
 			[
-				255,
-				255,
-				255
+				215,
+				215,
+				215
 			]
 		],
 		[
-			"cleithrophobia",
-			"phobic",
+			"petrology",
+			"boulder",
 			[
-				255,
-				255,
-				255
+				215,
+				215,
+				215
+			]
+		],
+		[
+			"game over",
+			"him",
+			[
+				215,
+				215,
+				215
 			]
 		]
 	],
 	"hiddenUntilUnlocked": false,
 	"hideFreeplay": false,
-	"weekBackground": "max",
+	"weekBackground": "mid",
 	"difficulties": "Hard",
 	"weekCharacters": [
 		"",
 		"",
 		""
 	],
-	"storyName": "the meme mann",
-	"weekName": "Max",
+	"storyName": "the three creatures",
+	"weekName": "Musketeers",
 	"freeplayColor": [
 		146,
 		113,

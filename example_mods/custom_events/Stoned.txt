@@ -1,0 +1,3 @@
+Value1 is how many times you need to press space 
+(will always be 10 tho cause fguck you)
+Value2 not defined

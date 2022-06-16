@@ -1,0 +1,50 @@
+{
+	"storyName": "jimmyjimmyjimmyjimmyjimmyjimmyjimmyjimmyjimmyjimmyjimmyjimmyjimmyjimmyjimmy",
+	"difficulties": "Ball",
+	"hideFreeplay": false,
+	"weekBackground": "jimmy",
+	"weekBefore": "week2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"fortress",
+			"2dj",
+			[
+				0,
+				255,
+				75
+			]
+		],
+		[
+			"jimmy",
+			"2dj",
+			[
+				0,
+				255,
+				75
+			]
+		],
+		[
+			"spherical",
+			"3dj",
+			[
+				0,
+				255,
+				75
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Jimmy"
+}

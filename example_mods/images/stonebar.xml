@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stonebar.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="stonebar0000" x="0" y="0" width="872" height="797" frameX="-1" frameY="0" frameWidth="873" frameHeight="797"/>
+	<SubTexture name="stonebar0001" x="0" y="0" width="872" height="797" frameX="-1" frameY="0" frameWidth="873" frameHeight="797"/>
+	<SubTexture name="stonebar0002" x="872" y="0" width="873" height="797"/>
+	<SubTexture name="stonebar0003" x="872" y="0" width="873" height="797"/>
+	<SubTexture name="stonebar0004" x="1745" y="0" width="872" height="797" frameX="-1" frameY="0" frameWidth="873" frameHeight="797"/>
+	<SubTexture name="stonebar0005" x="1745" y="0" width="872" height="797" frameX="-1" frameY="0" frameWidth="873" frameHeight="797"/>
+	<SubTexture name="stonebar0006" x="2617" y="0" width="873" height="797"/>
+	<SubTexture name="stonebar0007" x="2617" y="0" width="873" height="797"/>
+	<SubTexture name="stonebar0008" x="1745" y="0" width="872" height="797" frameX="-1" frameY="0" frameWidth="873" frameHeight="797"/>
+	<SubTexture name="stonebar0009" x="1745" y="0" width="872" height="797" frameX="-1" frameY="0" frameWidth="873" frameHeight="797"/>
+	<SubTexture name="stonebar0010" x="2617" y="0" width="873" height="797"/>
+	<SubTexture name="stonebar0011" x="2617" y="0" width="873" height="797"/>
+	<SubTexture name="stonebar0012" x="1745" y="0" width="872" height="797" frameX="-1" frameY="0" frameWidth="873" frameHeight="797"/>
+	<SubTexture name="stonebar0013" x="1745" y="0" width="872" height="797" frameX="-1" frameY="0" frameWidth="873" frameHeight="797"/>
+	<SubTexture name="stonebar0022" x="0" y="797" width="873" height="797"/>
+	<SubTexture name="stonebar0023" x="0" y="797" width="873" height="797"/>
+	<SubTexture name="stonebar0024" x="873" y="797" width="873" height="797"/>
+	<SubTexture name="stonebar0025" x="873" y="797" width="873" height="797"/>
+</TextureAtlas>

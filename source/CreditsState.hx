@@ -81,12 +81,12 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
-			['Voidwalking Plus'],
+			['Voidwalking'],
 			['xx01xx02',            'xx01xx02',         'Creator of Voidwalking Plus',                          'https://twitter.com/xx01xx02istaken',   '696969'],	
-			['Jimmy T. Ball',       'xx01xx02',         'Owner and Voice of Jimmy\n3D Jimmy Sprites',		    'https://twitter.com/JimmyGamingNew',    '00FF00'],	
-			['SethMeth69',          'xx01xx02',         'Mike Apton Sprites',								    'https://twitter.com/SethMeth69',        '696969'],	
-			['TDC Gaming',          'xx01xx02',         'Petrology and Boche Vocal person',					    'https://www.youtube.com/channel/UCQdLZFgrV52dBXkWcWgJung',   '696969'],	
-			['ItsCapp',             '',                 'Made the cool note move event',                        'https://github.com/ShadowMario/FNF-PsychEngine/discussions/893)', '696969'],
+			['Jimmy T. Ball',       'no',         'Owner and Voice of Jimmy\n3D Jimmy Sprites',		    'https://twitter.com/JimmyGamingNew',    '00FF00'],	
+			['ItsCapp',             'no',                 'Made the cool note move event',                        'https://github.com/ShadowMario/FNF-PsychEngine/discussions/893)', '696969'],
+			['VS Sonic.EXE Team',             'no',       'Made the BF Sprites used in Petrology',                'https://gamebanana.com/mods/316022',   	'696969'],
+			['Toby Fox',             'no',			    'Owner of some sound effects and\nmusic used in this mod',     'https://twitter.com/tobyfox',    '696969'],
 			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',							'https://twitter.com/Shadow_Mario_',	'444444'],

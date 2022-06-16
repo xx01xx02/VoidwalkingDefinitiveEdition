@@ -104,10 +104,10 @@
 				-10,
 				0
 			],
-			"indices": [],
+			"loop": true,
 			"fps": 24,
 			"anim": "stoned",
-			"loop": true,
+			"indices": [],
 			"name": "rock_idle"
 		},
 		{
@@ -117,19 +117,8 @@
 			],
 			"indices": [],
 			"fps": 24,
-			"anim": "stoneLeft",
-			"loop": false,
-			"name": "rock_left"
-		},
-		{
-			"offsets": [
-				-10,
-				0
-			],
-			"indices": [],
-			"fps": 24,
 			"anim": "stoneRight",
-			"loop": false,
+			"loop": true,
 			"name": "rock_right"
 		},
 		{
@@ -139,8 +128,19 @@
 			],
 			"indices": [],
 			"fps": 24,
+			"anim": "stoneLeft",
+			"loop": true,
+			"name": "rock_left"
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"indices": [],
+			"fps": 24,
 			"anim": "stoneUp",
-			"loop": false,
+			"loop": true,
 			"name": "rock_up"
 		},
 		{
@@ -151,7 +151,7 @@
 			"indices": [],
 			"fps": 24,
 			"anim": "stoneDown",
-			"loop": false,
+			"loop": true,
 			"name": "rock_down"
 		}
 	],
@@ -162,7 +162,7 @@
 		350
 	],
 	"healthicon": "vbf",
-	"flip_x": false,
+	"flip_x": true,
 	"healthbar_colors": [
 		180,
 		180,
@@ -172,6 +172,6 @@
 		230,
 		-160
 	],
-	"sing_duration": 4,
+	"sing_duration": 5.99999999999999,
 	"scale": 1
 }
